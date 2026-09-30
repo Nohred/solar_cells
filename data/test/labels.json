@@ -1,0 +1,1850 @@
+[
+  {
+    "filename": "no_defectuosa/test_0000_index_2295_no_defectuosa.png",
+    "source_index": 2295,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0001_index_0721_no_defectuosa.png",
+    "source_index": 721,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0002_index_0517_no_defectuosa.png",
+    "source_index": 517,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0003_index_0071_no_defectuosa.png",
+    "source_index": 71,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0004_index_1338_no_defectuosa.png",
+    "source_index": 1338,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0005_index_0484_defectuosa.png",
+    "source_index": 484,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0006_index_1915_no_defectuosa.png",
+    "source_index": 1915,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0007_index_0832_no_defectuosa.png",
+    "source_index": 832,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0008_index_1263_no_defectuosa.png",
+    "source_index": 1263,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0009_index_1809_no_defectuosa.png",
+    "source_index": 1809,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0010_index_1091_no_defectuosa.png",
+    "source_index": 1091,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0011_index_0680_no_defectuosa.png",
+    "source_index": 680,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0012_index_0357_no_defectuosa.png",
+    "source_index": 357,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0013_index_1847_no_defectuosa.png",
+    "source_index": 1847,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0014_index_1442_no_defectuosa.png",
+    "source_index": 1442,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0015_index_0593_no_defectuosa.png",
+    "source_index": 593,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0016_index_0667_defectuosa.png",
+    "source_index": 667,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0017_index_1125_no_defectuosa.png",
+    "source_index": 1125,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0018_index_2596_no_defectuosa.png",
+    "source_index": 2596,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0019_index_0259_no_defectuosa.png",
+    "source_index": 259,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0020_index_0152_no_defectuosa.png",
+    "source_index": 152,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0021_index_1340_no_defectuosa.png",
+    "source_index": 1340,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0022_index_0041_defectuosa.png",
+    "source_index": 41,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0023_index_1249_no_defectuosa.png",
+    "source_index": 1249,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0024_index_0086_no_defectuosa.png",
+    "source_index": 86,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0025_index_1582_no_defectuosa.png",
+    "source_index": 1582,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0026_index_1749_no_defectuosa.png",
+    "source_index": 1749,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0027_index_1652_defectuosa.png",
+    "source_index": 1652,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0028_index_1207_no_defectuosa.png",
+    "source_index": 1207,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0029_index_2497_no_defectuosa.png",
+    "source_index": 2497,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0030_index_1392_defectuosa.png",
+    "source_index": 1392,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0031_index_2262_no_defectuosa.png",
+    "source_index": 2262,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0032_index_0419_defectuosa.png",
+    "source_index": 419,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0033_index_0808_no_defectuosa.png",
+    "source_index": 808,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0034_index_1870_no_defectuosa.png",
+    "source_index": 1870,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0035_index_0011_defectuosa.png",
+    "source_index": 11,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0036_index_2435_no_defectuosa.png",
+    "source_index": 2435,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0037_index_2170_no_defectuosa.png",
+    "source_index": 2170,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0038_index_1152_no_defectuosa.png",
+    "source_index": 1152,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0039_index_1136_no_defectuosa.png",
+    "source_index": 1136,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0040_index_0101_no_defectuosa.png",
+    "source_index": 101,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0041_index_0308_no_defectuosa.png",
+    "source_index": 308,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0042_index_2155_no_defectuosa.png",
+    "source_index": 2155,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0043_index_1606_no_defectuosa.png",
+    "source_index": 1606,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0044_index_0228_defectuosa.png",
+    "source_index": 228,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0045_index_1842_defectuosa.png",
+    "source_index": 1842,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0046_index_2357_no_defectuosa.png",
+    "source_index": 2357,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0047_index_2083_no_defectuosa.png",
+    "source_index": 2083,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0048_index_1571_no_defectuosa.png",
+    "source_index": 1571,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0049_index_0130_no_defectuosa.png",
+    "source_index": 130,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0050_index_0893_no_defectuosa.png",
+    "source_index": 893,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0051_index_2065_no_defectuosa.png",
+    "source_index": 2065,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0052_index_1429_no_defectuosa.png",
+    "source_index": 1429,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0053_index_0822_no_defectuosa.png",
+    "source_index": 822,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0054_index_0319_defectuosa.png",
+    "source_index": 319,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0055_index_1126_defectuosa.png",
+    "source_index": 1126,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0056_index_1073_defectuosa.png",
+    "source_index": 1073,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0057_index_2127_no_defectuosa.png",
+    "source_index": 2127,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0058_index_1780_no_defectuosa.png",
+    "source_index": 1780,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0059_index_0307_no_defectuosa.png",
+    "source_index": 307,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0060_index_1198_no_defectuosa.png",
+    "source_index": 1198,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0061_index_2589_no_defectuosa.png",
+    "source_index": 2589,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0062_index_0555_no_defectuosa.png",
+    "source_index": 555,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0063_index_1979_no_defectuosa.png",
+    "source_index": 1979,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0064_index_0235_no_defectuosa.png",
+    "source_index": 235,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0065_index_0456_defectuosa.png",
+    "source_index": 456,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0066_index_2466_no_defectuosa.png",
+    "source_index": 2466,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0067_index_1449_no_defectuosa.png",
+    "source_index": 1449,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0068_index_1397_no_defectuosa.png",
+    "source_index": 1397,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0069_index_1162_defectuosa.png",
+    "source_index": 1162,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0070_index_1808_no_defectuosa.png",
+    "source_index": 1808,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0071_index_0312_no_defectuosa.png",
+    "source_index": 312,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0072_index_0973_no_defectuosa.png",
+    "source_index": 973,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0073_index_2567_no_defectuosa.png",
+    "source_index": 2567,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0074_index_0301_no_defectuosa.png",
+    "source_index": 301,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0075_index_1936_no_defectuosa.png",
+    "source_index": 1936,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0076_index_0183_no_defectuosa.png",
+    "source_index": 183,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0077_index_0335_no_defectuosa.png",
+    "source_index": 335,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0078_index_1078_defectuosa.png",
+    "source_index": 1078,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0079_index_0772_defectuosa.png",
+    "source_index": 772,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0080_index_1913_no_defectuosa.png",
+    "source_index": 1913,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0081_index_2257_no_defectuosa.png",
+    "source_index": 2257,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0082_index_0825_no_defectuosa.png",
+    "source_index": 825,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0083_index_0902_no_defectuosa.png",
+    "source_index": 902,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0084_index_2222_no_defectuosa.png",
+    "source_index": 2222,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0085_index_1082_no_defectuosa.png",
+    "source_index": 1082,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0086_index_0610_defectuosa.png",
+    "source_index": 610,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0087_index_1960_defectuosa.png",
+    "source_index": 1960,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0088_index_2289_no_defectuosa.png",
+    "source_index": 2289,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0089_index_0615_defectuosa.png",
+    "source_index": 615,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0090_index_1214_no_defectuosa.png",
+    "source_index": 1214,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0091_index_1587_no_defectuosa.png",
+    "source_index": 1587,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0092_index_0962_no_defectuosa.png",
+    "source_index": 962,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0093_index_0100_no_defectuosa.png",
+    "source_index": 100,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0094_index_0977_defectuosa.png",
+    "source_index": 977,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0095_index_0792_defectuosa.png",
+    "source_index": 792,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0096_index_1845_no_defectuosa.png",
+    "source_index": 1845,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0097_index_2234_no_defectuosa.png",
+    "source_index": 2234,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0098_index_0074_no_defectuosa.png",
+    "source_index": 74,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0099_index_1888_no_defectuosa.png",
+    "source_index": 1888,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0100_index_0557_no_defectuosa.png",
+    "source_index": 557,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0101_index_0744_no_defectuosa.png",
+    "source_index": 744,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0102_index_0284_defectuosa.png",
+    "source_index": 284,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0103_index_0804_no_defectuosa.png",
+    "source_index": 804,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0104_index_1159_no_defectuosa.png",
+    "source_index": 1159,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0105_index_0356_no_defectuosa.png",
+    "source_index": 356,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0106_index_1354_no_defectuosa.png",
+    "source_index": 1354,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0107_index_2019_no_defectuosa.png",
+    "source_index": 2019,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0108_index_2133_no_defectuosa.png",
+    "source_index": 2133,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0109_index_1252_no_defectuosa.png",
+    "source_index": 1252,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0110_index_0455_defectuosa.png",
+    "source_index": 455,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0111_index_0345_defectuosa.png",
+    "source_index": 345,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0112_index_1511_no_defectuosa.png",
+    "source_index": 1511,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0113_index_0185_no_defectuosa.png",
+    "source_index": 185,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0114_index_1514_no_defectuosa.png",
+    "source_index": 1514,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0115_index_0724_no_defectuosa.png",
+    "source_index": 724,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0116_index_0858_defectuosa.png",
+    "source_index": 858,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0117_index_0776_no_defectuosa.png",
+    "source_index": 776,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0118_index_0498_defectuosa.png",
+    "source_index": 498,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0119_index_0454_defectuosa.png",
+    "source_index": 454,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0120_index_2438_defectuosa.png",
+    "source_index": 2438,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0121_index_1743_no_defectuosa.png",
+    "source_index": 1743,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0122_index_1581_no_defectuosa.png",
+    "source_index": 1581,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0123_index_1946_no_defectuosa.png",
+    "source_index": 1946,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0124_index_2282_no_defectuosa.png",
+    "source_index": 2282,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0125_index_2001_no_defectuosa.png",
+    "source_index": 2001,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0126_index_0079_no_defectuosa.png",
+    "source_index": 79,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0127_index_0765_no_defectuosa.png",
+    "source_index": 765,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0128_index_0390_defectuosa.png",
+    "source_index": 390,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0129_index_1262_no_defectuosa.png",
+    "source_index": 1262,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0130_index_2066_no_defectuosa.png",
+    "source_index": 2066,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0131_index_0479_no_defectuosa.png",
+    "source_index": 479,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0132_index_2356_no_defectuosa.png",
+    "source_index": 2356,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0133_index_2514_no_defectuosa.png",
+    "source_index": 2514,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0134_index_1481_no_defectuosa.png",
+    "source_index": 1481,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0135_index_0077_defectuosa.png",
+    "source_index": 77,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0136_index_1414_defectuosa.png",
+    "source_index": 1414,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0137_index_2365_no_defectuosa.png",
+    "source_index": 2365,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0138_index_0135_no_defectuosa.png",
+    "source_index": 135,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0139_index_2544_no_defectuosa.png",
+    "source_index": 2544,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0140_index_1730_defectuosa.png",
+    "source_index": 1730,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0141_index_0796_defectuosa.png",
+    "source_index": 796,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0142_index_0009_defectuosa.png",
+    "source_index": 9,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0143_index_2204_defectuosa.png",
+    "source_index": 2204,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0144_index_0729_no_defectuosa.png",
+    "source_index": 729,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0145_index_0433_defectuosa.png",
+    "source_index": 433,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0146_index_1602_no_defectuosa.png",
+    "source_index": 1602,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0147_index_1105_no_defectuosa.png",
+    "source_index": 1105,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0148_index_0842_defectuosa.png",
+    "source_index": 842,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0149_index_1594_no_defectuosa.png",
+    "source_index": 1594,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0150_index_0642_defectuosa.png",
+    "source_index": 642,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0151_index_1636_defectuosa.png",
+    "source_index": 1636,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0152_index_0581_no_defectuosa.png",
+    "source_index": 581,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0153_index_2313_no_defectuosa.png",
+    "source_index": 2313,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0154_index_1468_no_defectuosa.png",
+    "source_index": 1468,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0155_index_0841_defectuosa.png",
+    "source_index": 841,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0156_index_0255_defectuosa.png",
+    "source_index": 255,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0157_index_1149_no_defectuosa.png",
+    "source_index": 1149,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0158_index_2128_no_defectuosa.png",
+    "source_index": 2128,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0159_index_1648_defectuosa.png",
+    "source_index": 1648,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0160_index_0469_defectuosa.png",
+    "source_index": 469,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0161_index_1097_defectuosa.png",
+    "source_index": 1097,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0162_index_1438_defectuosa.png",
+    "source_index": 1438,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0163_index_0109_no_defectuosa.png",
+    "source_index": 109,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0164_index_1504_no_defectuosa.png",
+    "source_index": 1504,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0165_index_1967_no_defectuosa.png",
+    "source_index": 1967,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0166_index_1621_defectuosa.png",
+    "source_index": 1621,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0167_index_0366_defectuosa.png",
+    "source_index": 366,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0168_index_1400_no_defectuosa.png",
+    "source_index": 1400,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0169_index_1600_no_defectuosa.png",
+    "source_index": 1600,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0170_index_2619_no_defectuosa.png",
+    "source_index": 2619,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0171_index_1049_defectuosa.png",
+    "source_index": 1049,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0172_index_1754_no_defectuosa.png",
+    "source_index": 1754,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0173_index_0206_no_defectuosa.png",
+    "source_index": 206,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0174_index_0192_defectuosa.png",
+    "source_index": 192,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0175_index_1634_defectuosa.png",
+    "source_index": 1634,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0176_index_1927_no_defectuosa.png",
+    "source_index": 1927,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0177_index_1519_no_defectuosa.png",
+    "source_index": 1519,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0178_index_1146_defectuosa.png",
+    "source_index": 1146,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0179_index_1963_defectuosa.png",
+    "source_index": 1963,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0180_index_2320_no_defectuosa.png",
+    "source_index": 2320,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0181_index_1377_no_defectuosa.png",
+    "source_index": 1377,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0182_index_2062_no_defectuosa.png",
+    "source_index": 2062,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0183_index_0056_defectuosa.png",
+    "source_index": 56,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0184_index_1657_no_defectuosa.png",
+    "source_index": 1657,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0185_index_1376_no_defectuosa.png",
+    "source_index": 1376,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0186_index_1018_no_defectuosa.png",
+    "source_index": 1018,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0187_index_0320_defectuosa.png",
+    "source_index": 320,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0188_index_0583_no_defectuosa.png",
+    "source_index": 583,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0189_index_1943_no_defectuosa.png",
+    "source_index": 1943,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0190_index_1396_no_defectuosa.png",
+    "source_index": 1396,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0191_index_1395_defectuosa.png",
+    "source_index": 1395,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0192_index_2509_no_defectuosa.png",
+    "source_index": 2509,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0193_index_1683_no_defectuosa.png",
+    "source_index": 1683,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0194_index_2051_defectuosa.png",
+    "source_index": 2051,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0195_index_0412_no_defectuosa.png",
+    "source_index": 412,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0196_index_0332_no_defectuosa.png",
+    "source_index": 332,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0197_index_0092_no_defectuosa.png",
+    "source_index": 92,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0198_index_0215_no_defectuosa.png",
+    "source_index": 215,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0199_index_2536_no_defectuosa.png",
+    "source_index": 2536,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0200_index_0917_no_defectuosa.png",
+    "source_index": 917,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0201_index_0801_no_defectuosa.png",
+    "source_index": 801,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0202_index_0892_defectuosa.png",
+    "source_index": 892,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0203_index_0298_defectuosa.png",
+    "source_index": 298,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0204_index_0378_defectuosa.png",
+    "source_index": 378,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0205_index_0849_no_defectuosa.png",
+    "source_index": 849,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0206_index_1411_no_defectuosa.png",
+    "source_index": 1411,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0207_index_0863_defectuosa.png",
+    "source_index": 863,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0208_index_1521_no_defectuosa.png",
+    "source_index": 1521,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0209_index_2026_no_defectuosa.png",
+    "source_index": 2026,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0210_index_0532_defectuosa.png",
+    "source_index": 532,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0211_index_2496_no_defectuosa.png",
+    "source_index": 2496,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0212_index_1889_defectuosa.png",
+    "source_index": 1889,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0213_index_2041_defectuosa.png",
+    "source_index": 2041,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0214_index_2333_defectuosa.png",
+    "source_index": 2333,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0215_index_1926_no_defectuosa.png",
+    "source_index": 1926,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0216_index_2239_no_defectuosa.png",
+    "source_index": 2239,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0217_index_2543_defectuosa.png",
+    "source_index": 2543,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0218_index_2145_no_defectuosa.png",
+    "source_index": 2145,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0219_index_1314_defectuosa.png",
+    "source_index": 1314,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0220_index_0272_no_defectuosa.png",
+    "source_index": 272,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0221_index_0126_no_defectuosa.png",
+    "source_index": 126,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0222_index_0806_defectuosa.png",
+    "source_index": 806,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0223_index_2368_defectuosa.png",
+    "source_index": 2368,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0224_index_1611_no_defectuosa.png",
+    "source_index": 1611,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0225_index_0128_no_defectuosa.png",
+    "source_index": 128,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0226_index_2504_no_defectuosa.png",
+    "source_index": 2504,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0227_index_0265_defectuosa.png",
+    "source_index": 265,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0228_index_0370_defectuosa.png",
+    "source_index": 370,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0229_index_2550_no_defectuosa.png",
+    "source_index": 2550,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0230_index_1691_no_defectuosa.png",
+    "source_index": 1691,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0231_index_0868_defectuosa.png",
+    "source_index": 868,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0232_index_0927_no_defectuosa.png",
+    "source_index": 927,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0233_index_0123_defectuosa.png",
+    "source_index": 123,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0234_index_1458_no_defectuosa.png",
+    "source_index": 1458,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0235_index_1585_no_defectuosa.png",
+    "source_index": 1585,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0236_index_1711_no_defectuosa.png",
+    "source_index": 1711,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0237_index_1351_no_defectuosa.png",
+    "source_index": 1351,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0238_index_0447_defectuosa.png",
+    "source_index": 447,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0239_index_0280_defectuosa.png",
+    "source_index": 280,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0240_index_2542_no_defectuosa.png",
+    "source_index": 2542,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0241_index_1966_no_defectuosa.png",
+    "source_index": 1966,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0242_index_1229_no_defectuosa.png",
+    "source_index": 1229,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0243_index_1052_defectuosa.png",
+    "source_index": 1052,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0244_index_1218_defectuosa.png",
+    "source_index": 1218,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0245_index_0216_defectuosa.png",
+    "source_index": 216,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0246_index_2380_no_defectuosa.png",
+    "source_index": 2380,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0247_index_1565_no_defectuosa.png",
+    "source_index": 1565,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0248_index_1736_no_defectuosa.png",
+    "source_index": 1736,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0249_index_1969_no_defectuosa.png",
+    "source_index": 1969,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0250_index_1792_no_defectuosa.png",
+    "source_index": 1792,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0251_index_1167_no_defectuosa.png",
+    "source_index": 1167,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0252_index_0736_no_defectuosa.png",
+    "source_index": 736,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0253_index_1849_no_defectuosa.png",
+    "source_index": 1849,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0254_index_0605_defectuosa.png",
+    "source_index": 605,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0255_index_2203_defectuosa.png",
+    "source_index": 2203,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0256_index_0485_defectuosa.png",
+    "source_index": 485,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0257_index_2037_defectuosa.png",
+    "source_index": 2037,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0258_index_1742_no_defectuosa.png",
+    "source_index": 1742,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0259_index_1033_no_defectuosa.png",
+    "source_index": 1033,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "defectuosa/test_0260_index_0289_defectuosa.png",
+    "source_index": 289,
+    "label": 1,
+    "label_name": "defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0261_index_0547_no_defectuosa.png",
+    "source_index": 547,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0262_index_2583_no_defectuosa.png",
+    "source_index": 2583,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  },
+  {
+    "filename": "no_defectuosa/test_0263_index_1303_no_defectuosa.png",
+    "source_index": 1303,
+    "label": 0,
+    "label_name": "no defectuosa",
+    "defect_threshold": 0.5
+  }
+]
