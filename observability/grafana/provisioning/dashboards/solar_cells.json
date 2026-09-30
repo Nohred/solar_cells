@@ -1,0 +1,49 @@
+{
+	"annotations": {"list": []},
+	"editable": true,
+	"graphTooltip": 0,
+	"panels": [
+		{
+			"title": "Inference requests",
+			"type": "timeseries",
+			"gridPos": {"h": 8, "w": 12, "x": 0, "y": 0},
+			"targets": [
+				{
+					"expr": "sum by (status) (rate(solar_cells_inference_requests_total[5m]))",
+					"legendFormat": "{{status}}"
+				}
+			]
+		},
+		{
+			"title": "Inference latency",
+			"type": "timeseries",
+			"gridPos": {"h": 8, "w": 12, "x": 12, "y": 0},
+			"targets": [
+				{
+					"expr": "histogram_quantile(0.95, sum by (le) (rate(solar_cells_inference_latency_seconds_bucket[5m])))",
+					"legendFormat": "p95"
+				}
+			]
+		},
+		{
+			"title": "Images processed",
+			"type": "stat",
+			"gridPos": {"h": 6, "w": 8, "x": 0, "y": 8},
+			"targets": [
+				{"expr": "sum(solar_cells_images_processed_total)"}
+			]
+		},
+		{
+			"title": "Active model",
+			"type": "stat",
+			"gridPos": {"h": 6, "w": 8, "x": 8, "y": 8},
+			"targets": [
+				{"expr": "solar_cells_active_model"}
+			]
+		}
+	],
+	"schemaVersion": 39,
+	"title": "Solar Cells",
+	"uid": "solar-cells",
+	"version": 1
+}

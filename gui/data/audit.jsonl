@@ -1,0 +1,21 @@
+{"timestamp": "2026-09-25T05:21:32.852367+00:00", "event": "inference", "batch_size": 5, "model": "resnet18", "latency_seconds": 0.631735, "status": "success"}
+{"timestamp": "2026-09-25T05:21:49.665540+00:00", "event": "inference", "batch_size": 5, "model": "resnet18", "latency_seconds": 0.666755, "status": "success"}
+{"timestamp": "2026-09-25T05:21:53.989099+00:00", "event": "inference", "batch_size": 1, "model": "resnet18", "latency_seconds": 0.131219, "status": "success"}
+{"timestamp": "2026-09-25T05:24:21.072236+00:00", "event": "inference", "batch_size": 1, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:24:24.202829+00:00", "event": "inference", "batch_size": 1, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:24:25.210995+00:00", "event": "inference", "batch_size": 1, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:24:28.163838+00:00", "event": "inference", "batch_size": 1, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:24:29.595780+00:00", "event": "inference", "batch_size": 1, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:25:31.552222+00:00", "event": "inference", "batch_size": 1, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:25:40.424249+00:00", "event": "inference", "batch_size": 5, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-25T05:25:43.497720+00:00", "event": "inference", "batch_size": 5, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-29T18:00:07.934281+00:00", "event": "inference", "batch_size": 5, "status": "error", "error": "Se requiere exactamente un modelo READY en Triton (encontrados: ninguno)."}
+{"timestamp": "2026-09-29T18:02:39.978959+00:00", "event": "inference", "batch_size": 5, "model": "efficientnet_b0", "latency_seconds": 0.784162, "status": "success"}
+{"timestamp": "2026-09-29T18:06:54.920814+00:00", "event": "inference", "batch_size": 5, "model": "efficientnet_b0", "latency_seconds": 0.66886, "status": "success"}
+{"timestamp": "2026-09-29T18:07:54.898928+00:00", "event": "inference", "batch_size": 5, "model": "efficientnet_b0", "latency_seconds": 0.752496, "status": "success"}
+{"timestamp": "2026-09-29T18:15:28.433291+00:00", "event": "inference", "batch_size": 5, "model": "efficientnet_b0", "latency_seconds": 0.706264, "status": "success"}
+{"timestamp": "2026-09-29T18:20:33.195075+00:00", "event": "inference", "batch_size": 5, "model": "resnet18", "latency_seconds": 0.908809, "status": "success"}
+{"timestamp": "2026-09-29T18:57:06.303073+00:00", "event": "inference", "batch_size": 4, "model": "efficientnet_b0", "latency_seconds": 0.563905, "status": "success"}
+{"timestamp": "2026-09-29T18:57:17.971555+00:00", "event": "inference", "batch_size": 4, "model": "efficientnet_b0", "latency_seconds": 0.626802, "status": "success"}
+{"timestamp": "2026-09-29T18:58:59.667917+00:00", "event": "inference", "batch_size": 1, "model": "efficientnet_b0", "latency_seconds": 0.148136, "status": "success"}
+{"timestamp": "2026-09-29T18:59:42.633202+00:00", "event": "inference", "batch_size": 5, "model": "efficientnet_b0", "latency_seconds": 0.686969, "status": "success"}

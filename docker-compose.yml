@@ -1,0 +1,50 @@
+services:
+  triton:
+    image: nvcr.io/nvidia/tritonserver:23.06-py3
+    
+    ports:
+      - "127.0.0.1:8000:8000"
+      - "127.0.0.1:8001:8001"
+      - "127.0.0.1:8002:8002"
+    
+    volumes:
+      - ./serving/model_repository:/models
+    
+    command:
+      - tritonserver
+      - --model-repository=/models
+      - --model-control-mode=explicit
+      - --load-model=${ACTIVE_MODEL:-efficientnet_b0}
+
+  gui:
+    build:
+      context: ./gui
+    ports:
+      - "8501:8501"
+    environment:
+      TRITON_URL: http://triton:8000
+      METRICS_PORT: "8502"
+      AUDIT_PATH: /data/audit.jsonl
+      PROMETHEUS_MULTIPROC_DIR: /tmp/prometheus
+    volumes:
+      - ./gui/data:/data
+    depends_on:
+      - triton
+
+  prometheus:
+    image: prom/prometheus:v2.53.0
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./observability/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    depends_on:
+      - gui
+
+  grafana:
+    image: grafana/grafana:11.1.0
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./observability/grafana/provisioning:/etc/grafana/provisioning:ro
+    depends_on:
+      - prometheus

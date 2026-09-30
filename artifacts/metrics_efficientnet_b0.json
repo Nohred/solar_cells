@@ -1,0 +1,71 @@
+{
+  "model_name": "efficientnet_b0",
+  "loss": 0.418615359248537,
+  "accuracy": 0.8143939393939394,
+  "precision": [
+    0.8556149732620321,
+    0.7142857142857143
+  ],
+  "recall": [
+    0.8791208791208791,
+    0.6707317073170732
+  ],
+  "f1": [
+    0.8672086720867209,
+    0.6918238993710691
+  ],
+  "f1_macro": 0.7795162857288951,
+  "confusion_matrix": [
+    [
+      160,
+      22
+    ],
+    [
+      27,
+      55
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.8556149732620321,
+      "recall": 0.8791208791208791,
+      "f1-score": 0.8672086720867209,
+      "support": 182.0
+    },
+    "1": {
+      "precision": 0.7142857142857143,
+      "recall": 0.6707317073170732,
+      "f1-score": 0.6918238993710691,
+      "support": 82.0
+    },
+    "accuracy": 0.8143939393939394,
+    "macro avg": {
+      "precision": 0.7849503437738732,
+      "recall": 0.7749262932189762,
+      "f1-score": 0.7795162857288951,
+      "support": 264.0
+    },
+    "weighted avg": {
+      "precision": 0.8117172488830243,
+      "recall": 0.8143939393939394,
+      "f1-score": 0.8127330987432231,
+      "support": 264.0
+    }
+  },
+  "class_1_definition": "defectuosa (defect_threshold=0.5)",
+  "seed": 42,
+  "split_id": "1ca2cfc75f57397119144e3e15f313cc75731aa5b64ff27372212061b2f567ca",
+  "best_phase": "finetune",
+  "best_epoch": 20,
+  "hyperparameters": {
+    "batch_size": 32,
+    "weight_decay": 0.0001,
+    "phase1_epochs": 4,
+    "phase2_epochs": 20,
+    "phase1_lr": 0.001,
+    "phase2_head_lr": 0.0001,
+    "phase2_block_lr": 1e-05,
+    "patience": 5,
+    "min_delta": 0.001
+  }
+}
